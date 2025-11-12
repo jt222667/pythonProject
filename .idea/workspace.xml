@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="127d44b3-fe6b-4b00-9a2c-ff3d675fd7f1" name="更改" comment="第二版">
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+    <list default="true" id="127d44b3-fe6b-4b00-9a2c-ff3d675fd7f1" name="更改" comment="第3版">
+      <change afterPath="$PROJECT_DIR$/mouse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jt222667"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jt222667&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jt222667/pythonProject",
-    "accountId": "520cafcd-d6f9-4c1a-b430-8a73edc72094"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jt222667/pythonProject&quot;,
+    &quot;accountId&quot;: &quot;520cafcd-d6f9-4c1a-b430-8a73edc72094&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -48,6 +48,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
+    "Python.mouse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "b1",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -93,12 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1762353559623</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第3版">
+      <option name="closed" value="true" />
+      <created>1762355110615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762355110615</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一版" />
     <MESSAGE value="第二版" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二版" />
+    <MESSAGE value="第3版" />
+    <option name="LAST_COMMIT_MESSAGE" value="第3版" />
   </component>
 </project>
